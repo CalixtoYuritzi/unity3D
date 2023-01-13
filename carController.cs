@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CarroController : MonoBehaviour
+public class carController : MonoBehaviour
 {
     public float velocidad;//Velocidad de movimientos
 
